@@ -6,7 +6,7 @@ DuelFatal est un jeu Python développer en 48H, qui simule un combat entre deux 
 
 ## Armes
 --------------------------------------------------------------------------------------------------------------------------------
-Pour l'instant il n'y a que 2 armes, des armes seront ajoutés a l'avenir. Les armes sont attribués aléatoire.
+Pour l'instant il n'y a que 2 armes, des armes seront ajoutés a l'avenir. Les armes sont attribués aléatoirement.
 
 Voici les chances d'obtentions:
 
